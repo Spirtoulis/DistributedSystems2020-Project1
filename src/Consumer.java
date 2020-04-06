@@ -6,7 +6,7 @@ import java.util.List;
 import java.io.*;
 import java.net.*;
 
-public class Consumer implements Node {
+public class Consumer implements  {
 
     private int port;
     private Socket connection = null;
